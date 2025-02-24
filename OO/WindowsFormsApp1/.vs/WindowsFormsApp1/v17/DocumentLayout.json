@@ -1,0 +1,179 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12F11004-A598-4F5C-A38A-2A9727B0B603}|WindowsFormsApp1\\WindowsFormsApp1.csproj|E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\windowsformsapp1\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F11004-A598-4F5C-A38A-2A9727B0B603}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F11004-A598-4F5C-A38A-2A9727B0B603}|WindowsFormsApp1\\WindowsFormsApp1.csproj|E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\windowsformsapp1\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F11004-A598-4F5C-A38A-2A9727B0B603}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F11004-A598-4F5C-A38A-2A9727B0B603}|WindowsFormsApp1\\WindowsFormsApp1.csproj|E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\windowsformsapp1\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12F11004-A598-4F5C-A38A-2A9727B0B603}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\startform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCBEE690-7BBF-4BF0-A489-2671A645D8FC}|..\\ConsoleApp1\\ConsoleApp1\\ConsoleApp1.csproj|e:\\mydownload\\qqfile\\1460952065\\filerecv\\oo(2)\\oo\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F11004-A598-4F5C-A38A-2A9727B0B603}|WindowsFormsApp1\\WindowsFormsApp1.csproj|E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\windowsformsapp1\\publicclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F11004-A598-4F5C-A38A-2A9727B0B603}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\publicclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F11004-A598-4F5C-A38A-2A9727B0B603}|WindowsFormsApp1\\WindowsFormsApp1.csproj|E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\windowsformsapp1\\formclient_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12F11004-A598-4F5C-A38A-2A9727B0B603}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\formclient_register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\workspacce\\\u6587\u672C\\\u5927\u4E09\u4E0A\\Windows\u5927\u4F5C\u4E1A\\2022302111051\u674E\u5EFA\u56FD\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F11004-A598-4F5C-A38A-2A9727B0B603}|WindowsFormsApp1\\WindowsFormsApp1.csproj|E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\windowsformsapp1\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12F11004-A598-4F5C-A38A-2A9727B0B603}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\chatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F11004-A598-4F5C-A38A-2A9727B0B603}|WindowsFormsApp1\\WindowsFormsApp1.csproj|E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F11004-A598-4F5C-A38A-2A9727B0B603}|WindowsFormsApp1\\WindowsFormsApp1.csproj|solutionrelative:windowsformsapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|e:\\mydownload\\qqfile\\1460952065\\filerecv\\oo(1)\\oo\\consoleapp1\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 202,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\workspacce\\\u6587\u672C\\\u5927\u4E09\u4E0A\\Windows\u5927\u4F5C\u4E1A\\2022302111051\u674E\u5EFA\u56FD\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\workspacce\\\u6587\u672C\\\u5927\u4E09\u4E0A\\Windows\u5927\u4F5C\u4E1A\\2022302111051\u674E\u5EFA\u56FD\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\workspacce\\\u6587\u672C\\\u5927\u4E09\u4E0A\\Windows\u5927\u4F5C\u4E1A\\2022302111051\u674E\u5EFA\u56FD\\MainWindow.xaml.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\workspacce\\\u6587\u672C\\\u5927\u4E09\u4E0A\\Windows\u5927\u4F5C\u4E1A\\2022302111051\u674E\u5EFA\u56FD\\MainWindow.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T07:19:37.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormClient_Register.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\WindowsFormsApp1\\FormClient_Register.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\FormClient_Register.cs",
+              "ToolTip": "E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\WindowsFormsApp1\\FormClient_Register.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsFormsApp1\\FormClient_Register.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T11:52:26.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "publicClass.cs",
+              "DocumentMoniker": "E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\WindowsFormsApp1\\publicClass.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\publicClass.cs",
+              "ToolTip": "E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\WindowsFormsApp1\\publicClass.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\publicClass.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:22:23.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "chatForm.cs",
+              "DocumentMoniker": "E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\WindowsFormsApp1\\chatForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\chatForm.cs",
+              "ToolTip": "E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\WindowsFormsApp1\\chatForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\chatForm.cs",
+              "ViewState": "AQIAAOMBAAAAAAAAAAAAABACAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:21:42.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAG4BAAAAAAAAAAAAAHYBAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:19:58.085Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StartForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\WindowsFormsApp1\\StartForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\StartForm.cs",
+              "ToolTip": "E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\WindowsFormsApp1\\StartForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsFormsApp1\\StartForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:42:55.094Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "chatForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\WindowsFormsApp1\\chatForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\chatForm.cs",
+              "ToolTip": "E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\WindowsFormsApp1\\chatForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "WindowsFormsApp1\\chatForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:41:18.872Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StartForm.cs",
+              "DocumentMoniker": "E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\WindowsFormsApp1\\StartForm.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\StartForm.cs",
+              "ToolTip": "E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\WindowsFormsApp1\\StartForm.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\StartForm.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAkwNYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:36:46.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeDocumentMoniker": "WindowsFormsApp1\\Program.cs",
+              "ToolTip": "E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(2)\\OO\\WindowsFormsApp1\\WindowsFormsApp1\\Program.cs",
+              "RelativeToolTip": "WindowsFormsApp1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T06:22:24.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(1)\\OO\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\OO(1)\\OO\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ToolTip": "E:\\mydownload\\QQfile\\1460952065\\FileRecv\\OO(1)\\OO\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\OO(1)\\OO\\ConsoleApp1\\ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAJYAAAAAAAAAAAAAAGMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T02:32:08.796Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

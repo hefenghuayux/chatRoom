@@ -1,0 +1,194 @@
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormClient_Register.resources
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\woshi\Source\Repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\woshi\Source\Repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\woshi\Source\Repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\woshi\Source\Repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\woshi\Source\Repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\woshi\Source\Repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\woshi\Source\Repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\woshi\Source\Repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\woshi\Source\Repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\woshi\Source\Repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormClient_Register.resources
+C:\Users\woshi\Source\Repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\woshi\Source\Repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\woshi\Source\Repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\woshi\Source\Repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\woshi\Source\Repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\woshi\Source\Repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\woshi\source\repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+C:\Users\woshi\source\repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AntdUI.dll
+C:\Users\woshi\source\repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AntdUI.xml
+C:\Users\woshi\source\repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+C:\Users\woshi\source\repos\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartForm.resources
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormClient_Register.resources
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartForm.resources
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AntdUI.dll
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AntdUI.xml
+E:\mydownload\lijianguo-master (1)\lijianguo-master\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AntdUI.dll
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AntdUI.xml
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormClient_Register.resources
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartForm.resources
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\CSharpRepo\repo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartForm.resources
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AntdUI.dll
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AntdUI.xml
+E:\workspacce\lijianguo\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AntdUI.dll
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AntdUI.xml
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormClient_Register.resources
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartForm.resources
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\download\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormClient_Register.resources
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartForm.resources
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AntdUI.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AntdUI.xml
+E:\mydownload\QQfile\1460952065\FileRecv\OO\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AntdUI.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AntdUI.xml
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormClient_Register.resources
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.MainForm.resources
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartForm.resources
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\mydownload\QQfile\1460952065\FileRecv\OO (4)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.chatForm.resources
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AntdUI.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AntdUI.xml
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.chatForm.resources
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormClient_Register.resources
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartForm.resources
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\mydownload\QQfile\1460952065\FileRecv\OO(1)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AntdUI.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Guna.UI2.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Memory.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\AntdUI.xml
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.chatForm.resources
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.FormClient_Register.resources
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.StartForm.resources
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+E:\mydownload\QQfile\1460952065\FileRecv\OO(2)\OO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
